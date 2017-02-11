@@ -24,7 +24,8 @@ github_username:  nemosapiens
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-midnight
 gems:
   - jekyll-feed
 exclude:
